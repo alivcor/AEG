@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>The populr meaning of the term equality is that all men are  equal and all should be entitled to identity of treatment  and income.
+
+Those who subscribe to this meaning of equality,  assert that all men are born equal and nature has willed  them to remain so.
+
+This natural equality of man was  practically recognized in the Declaration of the Rights of  Man (1789) issued by the National Assembly of France. It  said: ?Men are born, and always contnue, free and equal in  respect of their rights.?
+
+A similar statement is found in the  American Declaration of Independence: ?We hold these truths  to be self-evident, that all men are created equal.? But  nature has not created all men equal. Inequality is an  inescapable, natural fact and it has to be accepted by  society.
+
+Nature has endowed men with different capacities and  so long as they differ in their wants, needs, and capacities  in satisfying them, equality in its popular sense is  inconceivable. Equality does not even imply identity of  reward for effort. The statement, then, that all men are  equal is as erroneous as that the surface of the earth is  level.
+
+Absolute equality is, in fact, an impossible ideal.  Nature itself has created such vital differences between men  that no power can make and keep them equal. No one with eyes  in his head can or will deny the existence of these human  differences.
+
+There are, however, certain elements of equality  which must be secured and this needs a certain levlling  process in the existing order of things. The principle of  equality was, originally, a common man?s protest against the  gross inequalities created by the superior claims of the  nobility in ancient societies. The idea of equality has,  therefore, grown out of the idea of privileges.
+
+These  inequalities and privileges persist even in our own times.  Inequality, as such, refers to the conditions created in  society by a limited number of privileged people who have  always dominated the government of a country and used its  power for their own purpose and advantage. This class of  vested interests makes the fulfillment of their private  desires the criterion of public good.
+
+Equality means, first  of all, that special privileges of all kinds should be  abolished. All barriers of birth, wealth, sex, caste, creed  and colour should be removed so that no one suffers from any  kind of social or political disability.
+
+There should be, in  short, no difference between man and man and whatever rights  in here in another by virtue of his being a citizen must in  here, and to the same extent, in me also.
+
+It means that I am  entitled to the enjoyment of all those social and political  privileges to which others are entitled. My vote in the  election of the representatives is as valuable and potential  as that of any other.
+
+I can also become the recipient of any  office of the State for which I may be eligible. To refuse  any man access to authority is a complete denial of his  freedom, because, ?unless I enjoy the same access to power  as others, I live in an atmosphere of contingent  frustration.?
+
+One who lives in an atmosphere of frustration  has neither any inspiration in life nor any incentive for  it. He accepts his place in society, which accident of birth  has given him, as a permanent condition of his life.
+
+It is in  this way that the faculty of creativeness is lost and men or  a class of men becomes ?animate tools?, which Aristotle  described as the characteristic of the natural slave. There  can be no equality in a society where a few are masters and  the rest are slaves.
+
+The principle of equality, accordingly,  means that whatever conditions are guaranteed to me, in the  form of rights, shall also, in the same measure, be  guaranteed to others, and that whatever rights are given to  others shall also be given to me. The chief characteristic  of a right is its equalitrian basis.
+
+Equality, like liberty,  has a positive connotation as well. In this sense, it means  provision of adequate opportunity. By adequate opportunities  we do not mean equal opportunities. This is impossible. ?In  the modem world,? says Laski, ?broadly speaking, opportunity  is a matter of parental circumstances.?
+
+All that is implied  from the provision of adequate opportunities is that the  State should provide suitable opportunities for all citizens  without any discrimination for the full development of their  intelligence.
+
+No one should be debarred from the realization  of the ambition of his life, if he possesses the requisite  ability. The principle of equality is satisfied when the  State extends due opportunities to all for developing their  abilities to their full stature.
+
+Equality thus involves,  first of all, absence of legal discrimination against any  one individual, group, class or race. Secondly, equal claims  to adequate opportunities for all, recognition of the fact  that there can be no difference inherent in nature between  claims of men to happiness, and especially, that no one  person or group may be sacrificed to another. Finally,  claims to a minimum of education, housing, food, and  guarantees against economic insecurity.</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>It is often said that we learn from our past, but is that really true? Inequalities have existed in our society for thousands of years; from the kings verses the surfs in medieval times, to the treatment of slaves, to the inequalities of women. Today we still have people who face prejudice and inequality every day. If we really learn from our past, why does inequality still exist? Why can’t we live to the belief that “all men are created equal?” Our society today is, however, a lot better than it was when the United States first became a nation. The examples of past inequalities have shaped today’s society because we now have an increased minority participation in the government, equal education is promised to everybody, and most people have the chance at any job they want.
+In today’s government, there are 61 women in congress, and 13 in the senate. 36 blacks and 24 other minorities were also elected into congress. (congressional, 2001) When the first members of the United States congress were elected into office, there were no minorities or women included. Back then, it would be unheard of for a woman or a freed slave to help run the country. Blacks first started to be elected into congress after the civil war. This was made possible by the passage of Reconstruction Acts by congress, which enabled free male slaves to vote. Because blacks were the majority in some areas of the southern United States, it became possible for them to be elected and to hold office. Women still, however, did not have the right to vote. Jeanette Rankin, the first woman elected into congress, was voted into congress before women received the right to vote. Rankin won her seat by promising to expand voting rights to women and to ban liquor. Rankin pushed for the passing of the 19th amendment, allowing women the right to vote. In 1922, it passed. This expanded the influence of women in the U.S. government.
+</value>
+  </data>
+</root>

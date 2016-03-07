@@ -1,0 +1,10 @@
+C:\Users\Abhinandan\AppData\Local\Temporary Projects\mod1yu\bin\Debug\mod1yu.exe.config
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\bin\Debug\mod1yu.exe.config
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\bin\Debug\mod1yu.exe
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\bin\Debug\mod1yu.pdb
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.csprojResolveAssemblyReference.cache
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.Form1.resources
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.Properties.Resources.resources
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.csproj.GenerateResource.Cache
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.exe
+C:\Users\Abhinandan\Desktop\AEG\FE\Visualmod1yu\mod1yu\mod1yu\obj\Debug\mod1yu.pdb
