@@ -5,21 +5,21 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 m=[]
 p=0
-doc1 = 'John and Bob are brothers.'
+
 with open ("ess1.txt", "r") as myfile:
     doc1=myfile.read()
     #doc1=myfile.read().replace('\n', '')
-doc2 = 'John went to the store. The store was closed.'
+
 with open ("ess2.txt", "r") as myfile:
     doc2=myfile.read()
     #doc2=myfile.read().replace('\n', '')
-#doc3 = 'Bob went to the store too.'
+
 # Initialize class to create term-document matrix
 tdm = textmining.TermDocumentMatrix()
 # Add the documents
 tdm.add_doc(doc1)
 tdm.add_doc(doc2)
-#tdm.add_doc(doc3)
+
 # Write out the matrix to a csv file. Note that setting cutoff=1 means
 # that words which appear in 1 or more documents will be included in
 # the output (i.e. every word will appear in the output). The default
@@ -56,7 +56,7 @@ for row in tdm.rows(cutoff=1):
 
 
 p=0
-arr = numpy.delete(arr, (0), axis=0)
+#arr = numpy.delete(arr, (0), axis=0)
 print("")
 print("TDM:")
 print(m)
